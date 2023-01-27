@@ -49,6 +49,3 @@ Suggest Me A Feature For The Future Update And I Will Add It
         Ping Me : [Telegram](http://t.me/johnjayder)
 
 # Account Credentials : 
-  Username : johnjayder
-  Password : Johnjayder@123
-  //Comment : Configure security settings to prevent l33t hackers
